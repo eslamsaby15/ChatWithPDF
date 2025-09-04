@@ -1,0 +1,22 @@
+# Core
+streamlit
+streamlit_chat==0.1.1
+requests
+python-dotenv
+
+# LangChain + LangGraph
+langchain
+langgraph
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-google-vertexai
+
+# Data loaders & external tools
+wikipedia
+pypdf
+PyPDF2
+
+
+#embedding 
+sentence-transformers
