@@ -26,12 +26,12 @@ It allows you to ask questions about the contents of PDFs and DOC files, and the
 
 2) Create a new environment:
 ```bash
-conda create -n Chat python=3.11
+conda create -n chat python=3.11
 ```
 
 3) Activate the environment:
 ```bash
-$ conda activate Chat
+$ conda activate chat
 ```
 
 4) Install the required packages
