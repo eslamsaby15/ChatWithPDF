@@ -11,6 +11,8 @@ langchain-community
 langchain-openai
 langchain-google-genai
 langchain-google-vertexai
+chromadb
+langdetect
 
 # Data loaders & external tools
 wikipedia
