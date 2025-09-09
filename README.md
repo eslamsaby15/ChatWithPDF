@@ -51,9 +51,9 @@ This app is built using [**LangGraph**](https://www.langchain.com/langgraph) and
 - Translate the generated answer back to the original language and dialect of the query.
 - Display the answer in Streamlit with proper formatting.
 
-
-
 -----
+
+
 # 📂 ChatWithPDF - Structure
 
 ```bash
