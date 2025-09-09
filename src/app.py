@@ -22,7 +22,9 @@ def main():
     if not ('documents_processed' in st.session_state and st.session_state.documents_processed):
         st.info("Please upload and process PDF documents to start chatting.")
 
+        
     Chat()
+
 
 if __name__ == "__main__":
     main()
