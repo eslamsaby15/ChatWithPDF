@@ -30,4 +30,4 @@ def Chat():
                     message(msg.content, is_user=False, key=str(i) + '_ai')
 
 
-    print(st.session_state.messages)
+    
