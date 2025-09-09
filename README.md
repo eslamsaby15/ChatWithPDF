@@ -53,8 +53,39 @@ This app is built using [**LangGraph**](https://www.langchain.com/langgraph) and
 
 
 
+# 📂 ChatWithPDF - Structure
 
+```bash
+src/
+│   app.py
+│   requirements.txt
+│   workflow.ipynb
+│
+├───bins
+│   ├───core
+│   │   ├── BaseState.py
+│   │   ├── Chit_Chat.py
+│   │   ├── Dectionlang.py
+│   │   ├── Generation.py
+│   │   ├── Grade.py
+│   │   ├── ProcessingDocuments.py
+│   │   ├── Retrieve.py
+│   │   ├── TranslateQuery.py
+│   │   └── TranslateReasoning.py
+│   │
+│   ├───stream_lit
+│   │   ├── loadingFiles.py
+│   │   ├── RunRag.py
+│   │   └── SetUP.py
+│   │
+│   └───WorkFlow
+│       └── Graph.py
+│
+├───data/      
+│
+└───images/   
 
+```
 -----
 
 ## 📦 Installation
